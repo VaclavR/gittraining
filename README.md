@@ -1,0 +1,2 @@
+# gittraining
+for training purposes
